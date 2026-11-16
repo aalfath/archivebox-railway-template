@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-16: Deploy on Railway button
+
+- README only: added the Deploy on Railway button for the published `archivebox` template. No change to the image or the app.
+
 ## 2026-11-16: ArchiveBox 0.9.77
 
 First version built from this repo. Earlier deploys of the template ran the `archivebox/archivebox:0.7.4` image directly and don't follow this repo.
