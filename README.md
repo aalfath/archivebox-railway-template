@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/archivebox?utm_medium=integration&utm_source=button&utm_campaign=archivebox)
+
 # ArchiveBox on Railway
 
 This repo is the source of the [ArchiveBox](https://archivebox.io) template on Railway. It builds the official `archivebox/archivebox` image, pinned by version and digest, with a small start script for Railway.
